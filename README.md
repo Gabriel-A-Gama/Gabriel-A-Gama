@@ -5,9 +5,11 @@ I'm Gabriel Gama, a backend developer with a passion for information security, r
 - 📚 Studying: I am currently studying information systems at the federal university of Uberlândia in the 6° period, and creating my own projects.
 - 💼 Available for work
 - 📫 How to Reach Me:
-LinkedIn: Gabriel Gama
+LinkedIn: https://www.linkedin.com/in/gabriel-alves-gama/ <br>
 Email: your.email@example.com
-- 😄 Fun Fact: In my free time, I create cheats for games.
+- 😄 Fun Fact: In my free time, I create cheats for games. <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Gama&langs_count=4)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Gama&show_icons=true&theme=onedark)<br>-->
 <div style="display: inline_block"><br>
    <img align="center" alt="Gama-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Gama-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -33,6 +35,6 @@ Email: your.email@example.com
  <!--	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
  <a href="https://discord.gg/vJM8DaX3QV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-alves-gama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
