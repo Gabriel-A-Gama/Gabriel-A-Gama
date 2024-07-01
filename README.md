@@ -2,23 +2,26 @@ Hi there! 👋
 I'm Gabriel Gama, a backend developer with a passion for information security, reverse engineering, and application development.
 
 - 🌱 Learning: Continuous improvement in security practices and techniques.
+- 📚 Studying: I am currently studying information systems at the federal university of Uberlândia in the 6° period, and creating my own projects.
 - 💼 Available for work
 - 📫 How to Reach Me:
 LinkedIn: Gabriel Gama
 Email: your.email@example.com
 - 😄 Fun Fact: In my free time, I create cheats for games.
 <div style="display: inline_block"><br>
-   <img align="center" alt="Gama-Python" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" alt="Gama-Csharp" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Gama-Python" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-    <img align="center" alt="Gama-Python" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-  <img align="center" alt="Gama-Python" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Gama-HTML" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-  <img align="center" alt="Gama-Python" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gama-Js" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gama-HTML" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gama-CSS" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Gama-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Gama-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Gama-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+ 
+   <img align="center" alt="Gama-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Gama-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gama-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 
+  <img align="center" alt="Gama-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gama-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gama-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gama-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gama-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
  
 </div>
   
