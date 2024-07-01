@@ -1,3 +1,4 @@
+<h2 align="center"> >> Gabriel Gama (Gama) << </h2>
 Hi there! 👋<br>
 I'm Gabriel Gama, a backend developer with a passion for information security, reverse engineering, and application development.
 
