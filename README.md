@@ -11,75 +11,25 @@ Email:
 - 😄 Fun Fact: In my free time, I create cheats for games. <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Gama&langs_count=4)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Gama&show_icons=true&theme=onedark)<br>-->
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
-  <!-- C++ -->
-  <img align="center" alt="C++" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-
-  <!-- C# -->
-  <img align="center" alt="C#" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-  <!-- C -->
-  <img align="center" alt="C" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
-  <!-- PHP -->
-  <img align="center" alt="PHP" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-  <!-- Python -->
-  <img align="center" alt="Python" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <!-- Java -->
-  <img align="center" alt="Java" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-  <!-- JavaScript -->
-  <img align="center" alt="JavaScript" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <!-- MySQL -->
-  <img align="center" alt="MySQL" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-  <!-- MongoDB -->
-  <img align="center" alt="MongoDB" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
-  <!-- Docker -->
-  <img align="center" alt="Docker" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
-  <!-- AWS -->
-  <img align="center" alt="AWS" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-
-  <!-- Linux -->
-  <img align="center" alt="Linux" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-  <!-- Git -->
-  <img align="center" alt="Git" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-  <!-- NodeJS -->
-  <img align="center" alt="NodeJS" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-  <!-- HTML -->
-  <img align="center" alt="HTML5" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <!-- CSS -->
-  <img align="center" alt="CSS3" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <!-- R -->
-  <img align="center" alt="R" height="60" width="60"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+<img align="center" alt="C++" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="MongoDB" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" alt="Linux" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="NodeJS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="HTML5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 
 </div>
   
