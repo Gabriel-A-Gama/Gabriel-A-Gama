@@ -9,7 +9,7 @@ I'm Gabriel Gama, a backend developer with a passion for information security, r
 LinkedIn: https://www.linkedin.com/in/gabriel-alves-gama/ <br>
 Email: 
 - 😄 Fun Fact: In my free time, I create cheats for games. <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Gama&langs_count=4)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Gama&langs_count=4)-->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Gama&show_icons=true&theme=onedark)<br>-->
 <div style="display: inline_block">
 
