@@ -3,7 +3,7 @@ Hi there! 👋<br>
 I'm Gabriel Gama, a backend developer with a passion for information security, reverse engineering, and application development.
 
 - 🌱 Learning: Always willing and learning more about the programming area and new techniques.
-- 📚 Studying: I am currently studying Bacharel's information systems at the federal university of Uberlândia in the 8° period, and creating my own projects.
+- 🎓 Education: I hold a Bachelor's degree in Information Systems from the Federal University of Uberlândia, and I am currently developing my own projects.
 - 💼 Available for work
 - 📫 How to Reach Me:
 LinkedIn: https://www.linkedin.com/in/gabriel-alves-gama/ <br>
